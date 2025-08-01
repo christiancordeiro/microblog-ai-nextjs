@@ -67,6 +67,14 @@ class GitHubModelsService {
                 'Create emotional connections',
                 'Emphasize growth and achievement',
             ],
+            professional: [
+                'Use formal business language with authoritative tone',
+                'Focus on industry trends and market insights',
+                'Include relevant metrics and performance data when possible',
+                'Address pain points and propose actionable solutions',
+                'Maintain clarity, objectivity, and professional credibility',
+                'Use strategic vocabulary and enterprise-level terminology',
+            ],
         };
     }
 
