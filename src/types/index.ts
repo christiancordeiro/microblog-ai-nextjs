@@ -1,8 +1,8 @@
 export type ToneOfVoice =
     | 'friendly'
-    | 'professional'
+    | 'technical'
     | 'casual'
-    | 'inspirational';
+    | 'motivational';
 
 export interface GeneratedContent {
     mainContent: string; // O texto principal do microblog
